@@ -5,7 +5,7 @@ char region[20];	//Région de l'ETS
 int cap_pat;	//capacité patients de l'ETS
 int phone;		//telephone de l'ETS
 char id[20];		//id de l'ETS
-char director[50];	//directeur de l'ETS
+char responsable[50];	//responsable de l'ETS
 int cap_doc;	//capacité docteurs de l'ETS
 char creat_date[10];	//date de creation de l'ETS
 };
